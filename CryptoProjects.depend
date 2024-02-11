@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1681843338 source:c:\users\georg\onedrive\documents\cryptoprojects\md5cracker.c
+	<stdio.h>
+
+1681835158 source:c:\users\georg\onedrive\documents\cryptoprojects\md5.cpp
+	"md5.h"
+	<cstdio>
+
+1681866313 c:\users\georg\onedrive\documents\cryptoprojects\md5.h
+	<string.h>
+	<iostream>
+
+1681866532 source:c:\users\georg\onedrive\documents\cryptoprojects\main (21).cpp
+	<iostream>
+	"md5.h"
+
+1681866107 source:c:\users\georg\onedrive\documents\cryptoprojects\md5h.cpp
+	<string.h>
+	<iostream>
+
+1681997636 source:c:\users\georg\onedrive\documents\cryptoprojects\md5hashcracker.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	"md5.h"
+
