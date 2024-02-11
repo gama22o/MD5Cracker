@@ -1,6 +1,6 @@
 Source Description:
 
-This code decrypts a user-input MD5 hash password using a lookup table.  
+This code decrypts a user-input MD5 hash password using a lookup table. More details about the overall project can be found in the PDF report file. 
 
 
 
